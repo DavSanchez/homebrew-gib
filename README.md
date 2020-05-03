@@ -1,14 +1,14 @@
 # DavSanchez Gib
 
 ## How do I install these formulae?
-`brew install davsanchez/gib/<formula>`
+`brew install davsanchez/gib/gib`
 
-Or `brew tap davsanchez/gib` and then `brew install <formula>`.
+Or `brew tap davsanchez/gib` and then `brew install gib`.
 
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/DavSanchez/homebrew-gib/master/Formula/<formula>.rb
+brew install https://raw.githubusercontent.com/DavSanchez/homebrew-gib/master/Formula/gib.rb
 ```
 
 ## Documentation
