@@ -1,8 +1,8 @@
 class Gib < Formula
   desc ".gitignore bootstrapper for projects that use git"
   homepage "https://github.com/DavSanchez/gib"
-  url "https://github.com/DavSanchez/gib/archive/v0.2.0.tar.gz"
-  sha256 "12903d67bc6b3734b1f0841512c47e5e85609cc8b188d2f562f460a1c8ad8418"
+  url "https://github.com/DavSanchez/gib/archive/v0.2.1.tar.gz"
+  sha256 "58c7573aa4ddcee3702fa6982ff9b4ef11e06751459421f97c0c625b6c75473c"
   head "https://github.com/Davsanchez/gib.git"
 
   depends_on "rust" => :build
