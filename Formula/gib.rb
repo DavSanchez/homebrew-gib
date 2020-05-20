@@ -7,7 +7,6 @@ class Gib < Formula
   depends_on "rust" => :build
 
   def install
-    system "git", "submodule", "update", "--init"
     system "cargo", "install", "--locked", "--root", prefix, "--path", "."
   end
 
